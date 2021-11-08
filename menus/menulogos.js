@@ -7,11 +7,6 @@ const menulogos = (prefix) => {
 ┊✾⋟ ${prefix}plaq3
 ┊✾⋟ ${prefix}plaq4
 ┊✾⋟ ${prefix}plaq5
-┊✾⋟ ${prefix}plaq6
-┊✾⋟ ${prefix}plaq7
-┊✾⋟ ${prefix}plaq8
-┊✾⋟ ${prefix}plaq9
-┊✾⋟ ${prefix}plaq10
 ┊✾⋟ ${prefix}placaloli (txt)
 ┊✾⋟ ${prefix}transformer (txt)
 ┊✾⋟ ${prefix}narutologo (txt)

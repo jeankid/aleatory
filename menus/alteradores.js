@@ -6,6 +6,7 @@ return`
 ┊✾⋟ ${prefix}videorapido (marca)
 ┊✾⋟ ${prefix}videocontrario (marca)
 ┊ - - - - - - - - - - - - - - - 
+┊✾⋟ ${prefix}audiolento (marca)
 ┊✾⋟ ${prefix}audiorapido (marca)
 ┊✾⋟ ${prefix}grave (marca)
 ┊✾⋟ ${prefix}grave2 (marca)

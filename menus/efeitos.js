@@ -18,6 +18,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┊✾⋟ ${prefix}preso (marcar)-(img)
 ┊✾⋟ ${prefix}trash (marcar)-(img)
 ┊✾⋟ ${prefix}cubof (marcar)-(img)
+┊✾⋟ ${prefix}figuborrada (marcar-(img) 
 ┊✾⋟ ${prefix}arma (marcar)-(img)
 ┊✾⋟ ${prefix}gtav (marcar)-(img)
 ┊✾⋟ ${prefix}rip (marcar)-(img) 

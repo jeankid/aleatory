@@ -75,6 +75,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┊
 ┊✾⋟ ${prefix}ppt (papel-tesoura) 
 ┊✾⋟ ${prefix}jogodavelha @marca
+┊✾⋟ ${prefix}cassino
+┊✾⋟ ${prefix}anagrama
 ┊
 ├┈┈┈┈┈❲⌬❳┈┈┈┈┈╮
 ┊  ✰•FIGURINHAS•✰

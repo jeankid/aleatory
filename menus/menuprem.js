@@ -7,6 +7,7 @@ return `
 ┊✾⋟ ${prefix}destrava2
 ┊✾⋟ ${prefix}ddd (numero)
 ┊✾⋟ ${prefix}cep (numero)
+┊✾⋟ ${prefix}gerarcpf
 ┊✾⋟ ${prefix}premiumlist
 ┊✾⋟ ${prefix}rename 
 ┊✾⋟ ${prefix}metadinha

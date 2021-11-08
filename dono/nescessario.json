@@ -16,7 +16,9 @@
 	"fundo1": "https://i.ibb.co/gV7dWwM/8107022db138.jpg",
 	"cdd": "480000",
 	"crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
-	"banChats": true,
+
+	"banChats": "false",
+
 	"dono1": ".",
 	"dono2": ".",
 	"dono3": ".",
