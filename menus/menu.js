@@ -75,6 +75,9 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┊
 ┊✾⋟ ${prefix}ppt (papel-tesoura) 
 ┊✾⋟ ${prefix}jogodavelha @marca
+┊✾⋟ ${prefix}quizanime (ADM-ATIVAR)
+┊✾⋟ ${prefix}quizanimais (ADM-ATIVAR)
+┊> Pra os quiz /revelarAnimal /revelarAnime
 ┊✾⋟ ${prefix}cassino
 ┊✾⋟ ${prefix}anagrama
 ┊
